@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoc in the <a href='https://theairlab.org/'>AirLab</a> @ <a href='https://www.cmu.edu/'>CMU</a> &bull; <strong>Robotics. Multi-robot systems. Active perception. Control.</strong>
 
