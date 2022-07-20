@@ -41,3 +41,9 @@ perception planning with teams of robots* with applications to autonomous
 exploration for mapping of three-dimensional environments as well as perception
 planning with multi-robot teams.
 
+As for myself, I enjoy outdoor activities such as cycling, rock climbing, and
+an occasional round of disc golf.
+I am also an avid music listener!
+I attend concerts when I can, and while metal is central to my taste, I also
+enjoy a variety of rock, pop, hip-hop, and experimental artists.
+*Feel free to discuss to discuss any of these with me if we meet!*
