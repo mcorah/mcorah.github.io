@@ -18,6 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+**I am on the academic jobs market (fall 2022). Feel free to contact me.**
+
 I am a Postdoctoral Fellow in the Robotics Institute at Carnegie Mellon
 University, working in the [AirLab](https://theairlab.org/).
 My work here focuses on [filming and reconstruction moving agents with
