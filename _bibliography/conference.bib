@@ -8,29 +8,39 @@
 @string{wafr = {Workshop on the Algorithmic Foundations of Robotics}}
 @string{iser = {Proc. of the Intl. Sym. on Exp. Robot.}}
 
-# Placeholder since the folds eat this.
-@inproceedings{void,
-  author = {John Doe},
-  title = {Placeholder},
-  booktitle={},
-  year = {0}
+# Target tracking paper
+@inproceedings{corah2021iros,
+  author = {Micah Corah and Nathan Michael},
+  title = {Scalable Distributed Planning for Multi-Robot, Multi-Target Tracking},
+  booktitle=iros,
+  year = {2021},
+  note = {\href{https://youtu.be/vbpeyYuODWM}{Presentation}}
 }
 
-# Journal version including polynomial trajectories and collision constraints
-@article{corah2019auro,
-  author = {Corah, Micah and Michael, Nathan},
-  title = {Distributed matroid-constrained submodular maximization for multi-robot exploration: theory and practice},
-  journal = auro,
-  year = {2019}
+# ICRA 2021, volumetric objectives, submitted
+@inproceedings{corah2021icra,
+  title={Volumetric Objectives for Multi-Robot Exploration of Three-Dimensional Environments},
+  author={Corah, Micah and Michael, Nathan},
+  booktitle=icra,
+  year={2021},
+  note={\href{https://youtu.be/goYNA5d21z4}{Presentation}.}
 }
 
-# RA-L paper on informative views and local mapping with GMMs
-@article{corah2019ral,
-  title={Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments},
-  author={Corah, Micah and O'Meadhra, Cormac and Goel, Kshitij and Michael, Nathan},
-  journal=ral,
-  year={2019},
-  note={\href{https://youtu.be/aTIcJ6X2b_8}{Video}}
+@inproceedings{choi2021iser,
+  title={{BAXTER}: Bi-modal Aerial-Terrestrial Hybrid Vehicle for Long-endurance Versatile Mobility},
+  author={Choi, Hyungho Chris and Wee, Inhwan and Corah, Micah and Sabet, Sahand and Kim, Taeyeon and Touma, Thomas and Shim, David Hyunchul and Agha-mohammadi, Ali-akbar},
+  booktitle=iser,
+  year={2021}
+}
+
+# The fsr (not ssrr paper)
+@inproceedings{goel2019fsr,
+  author = {Kshitij Goel and Micah Corah and Curtis Boirum and Nathan Michael},
+  title = {Fast Exploration using Multirotors: Analysis, Planning, and Experimentation},
+  booktitle=fsr,
+  year = {2019},
+  note = {Videos: \href{https://youtu.be/IC9b8G1cVpE}{Sim},
+          \href{https://youtu.be/YXt4yiTpOAc}{Real}}
 }
 
 # Later work on submodular maximization for coverage
@@ -71,13 +81,4 @@
   author={Mitchell, Derek and Corah, Micah and Chakraborty, Nilanjan and Sycara, Katia and Michael, Nathan},
   booktitle=icra,
   year={2015}
-}
-
-# Thesis
-@phdthesis{corah2020phd,
-  author = {Micah Corah},
-  school = {Carnegie Mellon University},
-  title = {Sensor Planning for Large Numbers of Robots},
-  year = {2020},
-  note={\href{https://youtu.be/MMr9NxT_J8c}{Video}}
 }
