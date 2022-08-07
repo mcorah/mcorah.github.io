@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Publications/
+permalink: /publications/
 title: Publications
 description: Categorized publications. Please also refer to my <a href='https://scholar.google.com/citations?user=NHt9KX4AAAAJ&hl=en'><strong>Google Scholar page</strong></a>.
 nav: true
