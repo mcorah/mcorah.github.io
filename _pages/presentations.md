@@ -13,6 +13,8 @@ discussion of my time at JPL competing in the DARPA Subterranean Challenge.
 I discuss topics such as mutual information objectives for exploration,
 algorithms for distributed perception planning in multi-robot teams,
 and scalable planning for target tracking problems.
+
+*Many thanks to the Talking Robotics team (Patrícia Alves-Oliveira, Silvia Tulli, and Miguel Vasco) for organizing!*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KIQkryeUJ6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Scalable Distributed Planning for Multi-Robot, Multi-Target Tracking *(IROS 2021)*
