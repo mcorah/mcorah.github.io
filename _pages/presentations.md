@@ -4,7 +4,7 @@ permalink: /presentations/
 title: Presentations
 description: Selected presentations on my work.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 ## **Talking Robotics:** Active Perception and Exploration with Teams of Robots --- From Simulation to Subterranean
 
