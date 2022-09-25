@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: Presentations
-description: Selected presentations.
+description: Selected presentations on my work.
 nav: true
 nav_order: 2
 ---
@@ -17,7 +17,9 @@ and scalable planning for target tracking problems.
 *Many thanks to the Talking Robotics team (Patrícia Alves-Oliveira, Silvia Tulli, and Miguel Vasco) for organizing!*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KIQkryeUJ6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Scalable Distributed Planning for Multi-Robot, Multi-Target Tracking *(IROS 2021)*
+<br/><br/>
+
+## **IROS 2021:** Scalable Distributed Planning for Multi-Robot, Multi-Target Tracking
 
 This work applies Randomized Sequential Partitions (RSP) to multi-robot,
 multi-target tracking with a mutual information objective.
@@ -30,7 +32,9 @@ planning for a team of 96 robots.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vbpeyYuODWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Volumetric Objectives for Multi-Robot Exploration of Three-Dimensional Environments *(ICRA 2021)*
+<br/><br/>
+
+## **ICRA 2021**: Volumetric Objectives for Multi-Robot Exploration of Three-Dimensional Environments
 
 This work contrasts coverage-based and information-theoretic perception
 objectives for exploration (autonomous mapping) and attempts to unify these two
