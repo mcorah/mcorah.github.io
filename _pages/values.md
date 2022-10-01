@@ -23,13 +23,15 @@ I seek to provide inclusive environments personally and in the projects I lead
 or the events that I organize.
 * **Societal impact:**
 Topics I study such as aerial robotics and active perception are often fraught
-with ethical and societal challenges.
-For example, I am not sure I have a good answer for how to avoid contributing to
-development of a surveillance state
-e.g. when developing technologies for aerial tracking aside from not developing
-constituent technologies or some combination of blind trust and good policy.
-I try to be honest in stating how the contributions of my research can both help
-and harm.
+with ethical and societal challenges
+e.g. person or object tracking is central to many aerial robotics applications,
+but developing these technologies could contribute to ever more pervasive
+surveillance.
+I try to be honest in stating that the contributions of my research can have
+capacity to help or to harm.
+At the same time, micro-aerial vehicles (MAVs) have yielded positive impacts.
+MAVs are at the center of a vibrant hobbyist community, are transforming
+cinematography.
 
 ### Why did I create this page?
 
