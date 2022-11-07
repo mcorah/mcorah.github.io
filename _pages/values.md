@@ -17,10 +17,10 @@ I seek to understand the goals and needs of the people I advise or mentor.
 While I often have personal or external goals in mind, I try to find alignment
 for those I am working with.
 * **Inclusion:**
-I do not discriminate based on
+I seek to provide a welcoming environment to students of any
 nationality, gender, sexual orientation, ethnicity, or religion.
-I seek to provide inclusive environments personally and in the projects I lead
-or the events that I organize.
+When I make a decision on whether to work with a new student project,
+I focus first on alignment in interests and goals
 * **Societal impact:**
 Topics I study such as aerial robotics and active perception are often fraught
 with ethical and societal challenges
