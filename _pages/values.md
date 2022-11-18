@@ -22,8 +22,8 @@ nationality, gender, sexual orientation, ethnicity, or religion.
 When I make a decision on whether to work with a new student project,
 I focus first on alignment in interests and goals
 * **Societal impact:**
-Topics I study such as aerial robotics and active perception are often fraught
-with ethical and societal challenges
+Topics in robotics and specifically aerial robotics and active perception are
+subject a variety ethical and societal challenges
 e.g. person or object tracking is central to many aerial robotics applications,
 but developing these technologies could contribute to ever more pervasive
 surveillance.
