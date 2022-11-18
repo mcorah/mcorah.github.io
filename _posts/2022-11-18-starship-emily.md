@@ -7,13 +7,16 @@ tags: robotics accessibility societal-impact
 categories: robotics
 ---
 
-I feel close to this story because I have been acquainted with Emily for some
-time as we graduated from RPI in the same class before starting our respective
-PhDs in Pittsburgh.
-I initially wrote the following as part of a DEI statement for faculty
+I initially wrote the following in 2021 as part of a DEI statement for faculty
 applications.
-However, I think this content is more appropriate here as a blog post, now that
-I have my own website.
+However, now that I have my own website, I think this content is more
+appropriate here as a short blog post.
+I feel especialy close to this story because the events are located in
+Pittsburgh and because I have been acquainted with Emily
+for some time.
+I have known Emily since we were both students RPI.
+We each also graduated in the same class before moving to Pittsburgh to start
+our PhDs.
 
 ## Sidewalk hazards
 
@@ -40,6 +43,9 @@ This started a vital conversation with Starship and my community.
 Yet, the initial response by Starship was dismissive:
 *"Starship reviewed the footage and confirmed that Emily was able to access
 passage onto the sidewalk."* [^2]
+I think Starship's failure to account for the individuals their robots would
+share sidewalks with is notable, and this is evident in how Starship
+communicates and presents itself.
 
 ## Comparison: Starship and Nuro
 
@@ -50,7 +56,7 @@ and
 in terms of how they evaluate and communicate the impacts of their systems.
 Even after a few years, *Starship* does not communicate clearly or in
 detail on accessibility and the impacts of their robots:
-an ``FAQ'' on their website discusses topics like safety primarily in
+an "FAQ" on their website discusses topics like safety primarily in
 terms of their robots' ability to avoid collisions and harm due to small size
 and low speeds.
 However, they omit obvious topics such as mitigating
@@ -66,7 +72,8 @@ operation in roadways.
 While the onus to discuss safety is more pressing, their website provides much
 more extensive discussion of how their robots will impact local communities, the
 role of safety in planning and design, and accessibility to wheelchair users.
-*Significant differences in values are evident from even casual engagement
+What I see here is that
+*significant differences in values are evident from even casual engagement
 with either company.*
 I believe researchers can emulate companies like Nuro by evaluating the impacts
 of their research with depth and nuance and by communicating on these topics
