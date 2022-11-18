@@ -32,12 +32,3 @@ capacity to help or to harm.
 At the same time, micro-aerial vehicles (MAVs) have yielded positive impacts.
 MAVs are at the center of a vibrant hobbyist community, are transforming
 cinematography.
-
-### Why did I create this page?
-
-This page express what I expect of myself and provides a standard for what
-others should expect of me.
-For my peers and colleagues, I would also like to use this is an opportunity for me to invite
-[feedback](mailto:micahcorah@gmail.com)---please let me know if
-you feel that I am not living up to the values listed here or if there is
-anything I should change to improve this page or myself.
