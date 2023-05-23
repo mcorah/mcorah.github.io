@@ -62,13 +62,3 @@ I am also an avid music listener!
 I attend concerts when I can, and while metal is central to my taste, I also
 enjoy a variety of rock, pop, hip-hop, and experimental artists.
 *Feel free to discuss to discuss any of these with me if we meet!*
-
-**Mastodon:** I have been semi-active on Twitter, but I expect to shift emphasis
-to Mastodon.
-*If you are interested in making the transition,
-I recommend using tools like
-[debirdify](https://debirdify.pruvisto.org/)
-or
-[fedifinder](https://fedifinder.glitch.me/)
-for migrating your network.*
-
