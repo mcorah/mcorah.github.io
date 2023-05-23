@@ -18,9 +18,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**I am on the academic jobs market (fall 2022). Feel free to contact me.**
+**I will be joining the Colorado School of Mines [CS@Mines](https://cs.mines.edu/)
+as an Assistant Professor in January 2024.**
+My group will study aerial robotics, active perception, and multi-robot systems
+with applications to aerial videography, infrastructure inspection, and search
+(mines safety, search and rescue).
+*Please feel free to reach out directly if you would be interested in working
+with me at a graduate or undergraduate level or otherwise
+(starting with the 2023--2024 application cycle).*
+I expect to be involved with students in Computer Science, Robotics, and
+Mechanical Engineering (pending a courtesy appointment);
+and I would encourage students to consider the
+[robotics program](https://robotics.mines.edu/)
+and our other excellent faculty!
 
-I am a Postdoctoral Fellow in the Robotics Institute at Carnegie Mellon
+Currently, I am a Postdoctoral Fellow in the Robotics Institute at Carnegie
+Mellon
 University, working in the [AirLab](https://theairlab.org/).
 My work here focuses on [filming and reconstruction moving agents with
 groups of aerial robots](https://theairlab.org/multidrone/).
