@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 as an Assistant Professor in January 2024.**
 My group will study aerial robotics, active perception, and multi-robot systems
 with applications to aerial videography, infrastructure inspection, and search
-(mines safety, search and rescue).
+(mine safety, search and rescue).
 *Please feel free to reach out directly if you would be interested in working
 with me at a graduate or undergraduate level or otherwise
 (starting with the 2023--2024 application cycle).*
