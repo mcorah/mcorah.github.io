@@ -23,14 +23,6 @@ as an Assistant Professor in January 2024.**
 My group will study aerial robotics, active perception, and multi-robot systems
 with applications to aerial videography, infrastructure inspection, and search
 (mine safety, search and rescue).
-*Please feel free to reach out directly if you would be interested in working
-with me at a graduate or undergraduate level or otherwise
-(starting with the 2023--2024 application cycle).*
-I expect to be involved with students in Computer Science, Robotics, and
-Mechanical Engineering (pending a courtesy appointment);
-and I would encourage students to consider the
-[robotics program](https://robotics.mines.edu/)
-and our other excellent faculty!
 
 Currently, I am a Postdoctoral Fellow in the Robotics Institute at Carnegie
 Mellon
@@ -62,3 +54,20 @@ I am also an avid music listener!
 I attend concerts when I can, and while metal is central to my taste, I also
 enjoy a variety of rock, pop, hip-hop, and experimental artists.
 *Feel free to discuss to discuss any of these with me if we meet!*
+
+**Prospective students:**
+*Please feel free to reach out directly if you would be interested in working
+with me at a graduate or undergraduate level or otherwise
+(starting with the 2023--2024 application cycle).*
+I expect to be involved with students in Computer Science, Robotics, and
+Mechanical Engineering (pending a courtesy appointment);
+and I would encourage students to consider the
+[robotics program](https://robotics.mines.edu/)
+and our other excellent faculty!
+
+I am looking for students a variety of backgrounds in areas such as computer
+science, engineering, physics, or applied mathematics.
+Depending on your background and interests, we might work primarily with
+math and theory, with aerial and mobile robots in lab settings (motion capture),
+or eventually toward field deployments such as at the
+[Edgar Experimental Mine](https://mining.mines.edu/edgar-experimental-mine/).
