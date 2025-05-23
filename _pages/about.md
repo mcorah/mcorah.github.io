@@ -20,9 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 **I am an Assistant Professor in Computer Science at
 the Colorado School of Mines and director of the
-[Navigation, Aerial-robots, and Perception Planning Laboratory (NAPPLab)](https://www.napplab.org/)
-(full website forthcoming).**
-My group studies aerial robotics, active perception, and multi-robot systems
+[Navigation, Aerial-robots, and Perception Planning Laboratory (NAPPLab)](https://www.napplab.org/).**
+We study aerial robotics, active perception, and multi-robot systems
 with applications to aerial videography, infrastructure inspection,
 and physical search (mine safety, search and rescue).
 
@@ -58,8 +57,10 @@ enjoy a variety of rock, pop, hip-hop, and experimental artists.
 *Feel free to discuss to discuss any of these with me if we meet!*
 
 **Prospective students:**
-*Please feel free to reach out directly if you would be interested in working
-with me at a graduate or undergraduate level or otherwise.
+
+_Please refer to the [NAPPLab site](https://www.napplab.org/contact.html)
+regarding joining or working with us!_
+
 I expect to be involved with students in Computer Science, Robotics, and
 Mechanical Engineering (pending a courtesy appointment);
 and I would encourage students to consider the
@@ -72,3 +73,5 @@ Depending on your background and interests, we might work primarily with
 math and theory, with aerial and mobile robots in lab settings (motion capture),
 or eventually toward field deployments such as at the
 [Edgar Experimental Mine](https://mining.mines.edu/edgar-experimental-mine/).
+
+
