@@ -3,9 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Micah
+middle_name:
+last_name: Corah
+email: micahcorah@gmail.com
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,10 +19,10 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+url: "https://www.micahcorah.com" # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+last_updated: true # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -49,6 +50,8 @@ external_services:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
+rss_icon: false
+
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -75,6 +78,42 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: mcorah # your GitHub user name
+gitlab_username: # your GitLab user name
+twitter_username: CorahMicah # your Twitter handle
+mastodon_username: sigmoid.social/@micahcorah # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: micahcorah # your LinkedIn user name
+telegram_username: # your Telegram user name
+scholar_userid: NHt9KX4AAAAJ # your Google Scholar ID
+semanticscholar_id: # your Semantic Scholar ID
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+orcid_id: 0000-0002-9324-7875 # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
+work_url: # work page URL
+keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
+dblp_url: # your DBLP profile url
+stackoverflow_id: # your stackoverflow id
+kaggle_id: # your kaggle id
+lastfm_id: # your lastfm id
+spotify_id: # your spotify id
+pinterest_id: # your pinterest id
+unsplash_id: # your unsplash id
+instagram_id: # your instagram id
+facebook_id: # your facebook id
+discord_id: # your discord id (18-digit unique numerical identifier)
+
+contact_note: # >
+  # You can even add a little note about which of these is the best way to reach you.
+
+# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
@@ -93,8 +132,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Micah's Thoughts # al-folio  blog_name will be displayed in your blog page
+blog_nav_title: Blog # blog  your blog must have a title for it to be displayed in the nav bar
+blog_description: You can expect me to talk about robotics, multi-robot systems, and their impacts on society.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -108,22 +148,22 @@ related_blog_posts:
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  dark_theme: dark # name of the dark color scheme (preferred works well with al-folio dark mode)
-  light_theme: light # name of the light color scheme (preferred works well with al-folio light mode)
-  emit_metadata: 0
-  lang: en
+# giscus:
+#  repo: # <your-github-user-name>/<your-github-repo-name>
+#  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+#  category: Comments # name of the category under which discussions will be created
+#  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+#  mapping: title # identify discussions by post title
+#  strict: 1 # use strict identification mode
+#  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+#  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+#  dark_theme: dark # name of the dark color scheme (preferred works well with al-folio dark mode)
+#  light_theme: light # name of the light color scheme (preferred works well with al-folio light mode)
+#  emit_metadata: 0
+#  lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname:  al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -131,16 +171,16 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+#    categories: [external-posts]
+#    tags: [medium]
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
+#    categories: [external-posts]
+#    tags: [google]
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -273,16 +313,16 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+#display_tags: ['robotics'] # this tags will be dispalyed on the front page of your blog
+#display_categories: ["robotics"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Corah]
+  first_name: [Micah]
 
   style: apa
   locale: en
