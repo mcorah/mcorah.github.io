@@ -82,3 +82,21 @@ Depending on your background and interests, we might work primarily with
 math and theory, with aerial and mobile robots in lab settings (motion capture),
 or eventually toward field deployments such as at the
 [Edgar Experimental Mine](https://mining.mines.edu/edgar-experimental-mine/).
+
+## Community safety in Colorado
+
+Many of the students I work with and people close to me are immigrants or
+otherwise not US Citizens, and they face various risks as a product of this
+status.
+
+If you are in Colorado, organizations such as the
+[Colorado Rapid Response Network
+(CORRN)](https://www.coloradorapidresponsenetwork.com/)
+are working to protect local immigrant communities from harassment by
+organizations such as CBP or ICE.
+CORRN operates a hotline for rapid response **1-844-864-8341** that you can add
+to your contacts, and their website provides additional information and
+resources as well as opportunities for volunteering.
+
+If are elsewhere in the USA, you may be able to find other similar organizations
+that operate locally for you.
