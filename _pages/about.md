@@ -65,7 +65,7 @@ I attend concerts when I can, and while metal is central to my taste, I also
 enjoy a variety of rock, pop, hip-hop, and experimental artists.
 *Feel free to discuss to discuss any of these with me if we meet!*
 
-**Prospective students:**
+## Prospective students
 
 _Please refer to the [NAPPLab site](https://www.napplab.org/contact.html)
 regarding joining or working with us!_
