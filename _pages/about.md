@@ -37,7 +37,7 @@ and physical search (mine safety, search and rescue).
 Previously, I was a Postdoctoral Fellow in the Robotics Institute at Carnegie
 Mellon
 University, in the [AirLab](https://theairlab.org/)
-where I focuse on [filming and reconstruction moving agents with
+where I focus on [filming and reconstruction moving agents with
 groups of aerial robots](https://theairlab.org/multidrone/).
 This work is relevant to applications such as sports cinematography,
 biomechanics, study of animal groups, and filming improvisational performations.
