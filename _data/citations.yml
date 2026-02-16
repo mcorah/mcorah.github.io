@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-16'
 papers:
   NHt9KX4AAAAJ:2osOgNQ5qMEC:
     citations: 80
@@ -10,7 +10,7 @@ papers:
     title: "An addendum to NeBula: toward extending team CoSTAR\u2019s solution to larger scale environments"
     year: '2024'
   NHt9KX4AAAAJ:70eg2SAEIzsC:
-    citations: 15
+    citations: 16
     title: Volumetric objectives for multi-robot exploration of three-dimensional environments
     year: '2021'
   NHt9KX4AAAAJ:9yKSN-GCB0IC:
@@ -38,7 +38,7 @@ papers:
     title: Environment model adaptation for mobile robot exploration
     year: '2018'
   NHt9KX4AAAAJ:RYcK_YlVTxYC:
-    citations: 122
+    citations: 121
     title: Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments
     year: '2019'
   NHt9KX4AAAAJ:ZHo1McVdvXMC:
@@ -50,7 +50,7 @@ papers:
     title: 'CoCap: Coordinated motion Capture for multi-actor scenes in outdoor environments'
     year: '2024'
   NHt9KX4AAAAJ:d1gkVwhDpl0C:
-    citations: 52
+    citations: 53
     title: Computationally efficient information-theoretic exploration of pits and caves
     year: '2016'
   NHt9KX4AAAAJ:g5m5HwL7SMYC:
@@ -70,7 +70,7 @@ papers:
     title: Coordinated Active Perception and Manipulation of a Payload with Unknown Center-of-Mass Location
     year: '2016'
   NHt9KX4AAAAJ:u5HHmVD_uO8C:
-    citations: 79
+    citations: 78
     title: Multi-robot long-term persistent coverage with fuel constrained robots
     year: '2015'
   NHt9KX4AAAAJ:u_35RYKgDlwC:
