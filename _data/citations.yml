@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-02'
 papers:
   NHt9KX4AAAAJ:2osOgNQ5qMEC:
     citations: 80
@@ -14,7 +14,7 @@ papers:
     title: Volumetric objectives for multi-robot exploration of three-dimensional environments
     year: '2021'
   NHt9KX4AAAAJ:9yKSN-GCB0IC:
-    citations: 16
+    citations: 17
     title: Active estimation of mass properties for safe cooperative lifting
     year: '2017'
   NHt9KX4AAAAJ:D03iK_w7-QYC:
@@ -22,7 +22,7 @@ papers:
     title: Multi-Robot Planning for Filming Groups of Moving Actors Leveraging Submodularity and Pixel Density
     year: '2024'
   NHt9KX4AAAAJ:J_g5lzvAfSwC:
-    citations: 47
+    citations: 48
     title: Distributed submodular maximization on partition matroids for planning on large sensor networks
     year: '2018'
   NHt9KX4AAAAJ:M05iB0D1s5AC:
@@ -38,7 +38,7 @@ papers:
     title: Environment model adaptation for mobile robot exploration
     year: '2018'
   NHt9KX4AAAAJ:RYcK_YlVTxYC:
-    citations: 121
+    citations: 122
     title: Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments
     year: '2019'
   NHt9KX4AAAAJ:ZHo1McVdvXMC:
@@ -54,7 +54,7 @@ papers:
     title: Computationally efficient information-theoretic exploration of pits and caves
     year: '2016'
   NHt9KX4AAAAJ:g5m5HwL7SMYC:
-    citations: 14
+    citations: 15
     title: 'Fast exploration using multirotors: Analysis, planning, and experimentation'
     year: '2019'
   NHt9KX4AAAAJ:ldfaerwXgEUC:
@@ -82,6 +82,6 @@ papers:
     title: Sensor Planning for Large Numbers of Robots
     year: '2021'
   NHt9KX4AAAAJ:zA6iFVUQeVQC:
-    citations: 6
+    citations: 7
     title: 'Greedy perspectives: Multi-drone view planning for collaborative perception in cluttered environments'
     year: '2024'
