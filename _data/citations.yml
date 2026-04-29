@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-29'
 papers:
   NHt9KX4AAAAJ:2osOgNQ5qMEC:
-    citations: 82
+    citations: 83
     title: Efficient Online Multi-robot Exploration via Distributed Sequential Greedy Assignment
     year: '2017'
   NHt9KX4AAAAJ:4OULZ7Gr8RgC:
@@ -22,23 +22,23 @@ papers:
     title: Multi-Robot Planning for Filming Groups of Moving Actors Leveraging Submodularity and Pixel Density
     year: '2024'
   NHt9KX4AAAAJ:J_g5lzvAfSwC:
-    citations: 50
+    citations: 52
     title: Distributed submodular maximization on partition matroids for planning on large sensor networks
     year: '2018'
   NHt9KX4AAAAJ:M05iB0D1s5AC:
-    citations: 19
+    citations: 20
     title: 'BAXTER: Bi-modal Aerial-Terrestrial Hybrid Vehicle for Long-endurance Versatile Mobility'
     year: '2021'
   NHt9KX4AAAAJ:NaGl4SEjCO4C:
-    citations: 118
+    citations: 119
     title: 'Distributed matroid-constrained submodular maximization for multi-robot exploration: Theory and practice'
     year: '2019'
   NHt9KX4AAAAJ:RGFaLdJalmkC:
-    citations: 31
+    citations: 32
     title: Environment model adaptation for mobile robot exploration
     year: '2018'
   NHt9KX4AAAAJ:RYcK_YlVTxYC:
-    citations: 122
+    citations: 124
     title: Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments
     year: '2019'
   NHt9KX4AAAAJ:ZHo1McVdvXMC:
@@ -65,16 +65,20 @@ papers:
     citations: 16
     title: Scalable Distributed Planning for Multi-Robot, Multi-Target Tracking
     year: '2021'
+  NHt9KX4AAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: 'PRoID: Predicted Rate of Information Delivery in Multi-Robot Exploration and Relaying'
+    year: '2026'
   NHt9KX4AAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: Coordinated Active Perception and Manipulation of a Payload with Unknown Center-of-Mass Location
     year: '2016'
   NHt9KX4AAAAJ:u5HHmVD_uO8C:
-    citations: 78
+    citations: 79
     title: Multi-robot long-term persistent coverage with fuel constrained robots
     year: '2015'
   NHt9KX4AAAAJ:u_35RYKgDlwC:
-    citations: 22
+    citations: 24
     title: Multi-Robot Multi-Room Exploration with Geometric Cue Extraction and Circular Decomposition
     year: '2023'
   NHt9KX4AAAAJ:vV6vV6tmYwMC:
@@ -82,6 +86,6 @@ papers:
     title: Sensor Planning for Large Numbers of Robots
     year: '2021'
   NHt9KX4AAAAJ:zA6iFVUQeVQC:
-    citations: 7
+    citations: 8
     title: 'Greedy perspectives: Multi-drone view planning for collaborative perception in cluttered environments'
     year: '2024'
