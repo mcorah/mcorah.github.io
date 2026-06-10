@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-10'
 papers:
   NHt9KX4AAAAJ:2osOgNQ5qMEC:
-    citations: 84
+    citations: 85
     title: Efficient Online Multi-robot Exploration via Distributed Sequential Greedy Assignment
     year: '2017'
   NHt9KX4AAAAJ:4OULZ7Gr8RgC:
-    citations: 11
+    citations: 12
     title: "An addendum to NeBula: toward extending team CoSTAR\u2019s solution to larger scale environments"
     year: '2024'
   NHt9KX4AAAAJ:70eg2SAEIzsC:
@@ -26,11 +26,11 @@ papers:
     title: Distributed submodular maximization on partition matroids for planning on large sensor networks
     year: '2018'
   NHt9KX4AAAAJ:M05iB0D1s5AC:
-    citations: 21
+    citations: 22
     title: 'BAXTER: Bi-modal Aerial-Terrestrial Hybrid Vehicle for Long-endurance Versatile Mobility'
     year: '2021'
   NHt9KX4AAAAJ:NaGl4SEjCO4C:
-    citations: 119
+    citations: 120
     title: 'Distributed matroid-constrained submodular maximization for multi-robot exploration: Theory and practice'
     year: '2019'
   NHt9KX4AAAAJ:RGFaLdJalmkC:
