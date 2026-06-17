@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-17'
 papers:
   NHt9KX4AAAAJ:2osOgNQ5qMEC:
     citations: 85
     title: Efficient Online Multi-robot Exploration via Distributed Sequential Greedy Assignment
     year: '2017'
   NHt9KX4AAAAJ:4OULZ7Gr8RgC:
-    citations: 12
+    citations: 14
     title: "An addendum to NeBula: toward extending team CoSTAR\u2019s solution to larger scale environments"
     year: '2024'
   NHt9KX4AAAAJ:70eg2SAEIzsC:
-    citations: 16
+    citations: 17
     title: Volumetric objectives for multi-robot exploration of three-dimensional environments
     year: '2021'
   NHt9KX4AAAAJ:9yKSN-GCB0IC:
@@ -22,7 +22,7 @@ papers:
     title: Multi-Robot Planning for Filming Groups of Moving Actors Leveraging Submodularity and Pixel Density
     year: '2024'
   NHt9KX4AAAAJ:J_g5lzvAfSwC:
-    citations: 53
+    citations: 54
     title: Distributed submodular maximization on partition matroids for planning on large sensor networks
     year: '2018'
   NHt9KX4AAAAJ:M05iB0D1s5AC:
@@ -30,7 +30,7 @@ papers:
     title: 'BAXTER: Bi-modal Aerial-Terrestrial Hybrid Vehicle for Long-endurance Versatile Mobility'
     year: '2021'
   NHt9KX4AAAAJ:NaGl4SEjCO4C:
-    citations: 120
+    citations: 121
     title: 'Distributed matroid-constrained submodular maximization for multi-robot exploration: Theory and practice'
     year: '2019'
   NHt9KX4AAAAJ:RGFaLdJalmkC:
@@ -38,7 +38,7 @@ papers:
     title: Environment model adaptation for mobile robot exploration
     year: '2018'
   NHt9KX4AAAAJ:RYcK_YlVTxYC:
-    citations: 125
+    citations: 126
     title: Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments
     year: '2019'
   NHt9KX4AAAAJ:ZHo1McVdvXMC:
@@ -50,7 +50,7 @@ papers:
     title: 'CoCap: Coordinated motion Capture for multi-actor scenes in outdoor environments'
     year: '2024'
   NHt9KX4AAAAJ:d1gkVwhDpl0C:
-    citations: 55
+    citations: 56
     title: Computationally efficient information-theoretic exploration of pits and caves
     year: '2016'
   NHt9KX4AAAAJ:g5m5HwL7SMYC:
@@ -62,7 +62,7 @@ papers:
     title: A Simple Bound for Resilient Submodular Maximization with Curvature
     year: '2021'
   NHt9KX4AAAAJ:pqnbT2bcN3wC:
-    citations: 17
+    citations: 19
     title: Scalable Distributed Planning for Multi-Robot, Multi-Target Tracking
     year: '2021'
   NHt9KX4AAAAJ:pyW8ca7W8N0C:
@@ -86,6 +86,6 @@ papers:
     title: Sensor Planning for Large Numbers of Robots
     year: '2021'
   NHt9KX4AAAAJ:zA6iFVUQeVQC:
-    citations: 9
+    citations: 11
     title: 'Greedy perspectives: Multi-drone view planning for collaborative perception in cluttered environments'
     year: '2024'
