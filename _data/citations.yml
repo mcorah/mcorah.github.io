@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-22'
 papers:
   NHt9KX4AAAAJ:2osOgNQ5qMEC:
     citations: 85
@@ -38,7 +38,7 @@ papers:
     title: Environment model adaptation for mobile robot exploration
     year: '2018'
   NHt9KX4AAAAJ:RYcK_YlVTxYC:
-    citations: 126
+    citations: 128
     title: Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments
     year: '2019'
   NHt9KX4AAAAJ:ZHo1McVdvXMC:
